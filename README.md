@@ -8,3 +8,5 @@ CloudBeesでのFTPサーバーへの自動デプロイテスター
 Github's Webhook add 
 
 /buildWithParametersにしてみた
+
+why dont work?
