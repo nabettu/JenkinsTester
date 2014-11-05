@@ -7,4 +7,4 @@ CloudBeesでのFTPサーバーへの自動デプロイテスター
 
 Github's Webhook add 
 
-httpにしてみた
+/buildWithParametersにしてみた
